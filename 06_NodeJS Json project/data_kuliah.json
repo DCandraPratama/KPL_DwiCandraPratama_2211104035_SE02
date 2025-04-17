@@ -1,0 +1,49 @@
+{
+  "student": {
+    "name": "Dwi Candra Pratama",
+    "nim": "123456789",
+    "email": "2211104035@ittelkom-pwt.ac.id",
+    "phone": "081234567890",
+    "address": {
+      "street": "Jl. Raya No. 123",
+      "city": "Tegal",
+      "state": "Jawa Tengah",
+      "country": "Indonesia",
+      "postalCode": "52123"
+    }
+
+  },
+  "lecturerCode": "ACW",
+  "lecturerName": "Ariq Cahya Wardhana",
+  "lecturerEmail": "ariqcahya@telkomuniversity.ac.id",
+  "lecturerPhone": "081234567890",
+  "lecturerAddress": {
+    "street": "Jl. Raya No. 456",
+    "city": "Bandung",
+    "state": "Jawa Barat",
+    "country": "Indonesia",
+    "postalCode": "40123"
+  },
+  "courses": [
+    {
+      "courseCode": "RKPL",
+      "courseName": "Rancangan Kebutuhan Perangkat Lunak"
+    },
+    {
+      "courseCode": "DT",
+      "courseName": "Design Thingking"
+    },
+    {
+      "courseCode": "UX",
+      "courseName": "User Experience"
+    },
+    {
+      "courseCode": "PPL",
+      "courseName": "Pemrograman Perangkat Bergerak"
+    },
+    {
+      "courseCode": "PBO",
+      "courseName": "Pemrograman Berorientasi Objek"
+    }
+  ]
+}
